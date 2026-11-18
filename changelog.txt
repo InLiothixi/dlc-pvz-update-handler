@@ -1,23 +1,5 @@
 [CHANGELOG_HEADER]
-v3.0.0 IS NOT OUT YET(?)
+Changelog Test
 
 [CHANGELOG_LINES]
-This is just a test.
-What's new?
-- Added a ton lots of Minigames and Content!
-- World 7 Overhaul & World 8 is now available with complete new roster and reworked gimmicks.
-QoL Changes
-- Added High Resolution toggle.
-- Added V-sync toggle.
-- Added Borderless Window.
-- Overhauled Minigame, Puzzles, & Survival Screens.
-- Made Game Window resizable.
-- You can now import DLC save datas.
-Technical Changes
-- Replaced Legacy Direct3D7 Renderer with OpenGL ES2.0.
-- Replaced Old Windows API with SDL3 Handles.
-- Optimized rendering with Render Batches.
-Bug Fixes
-- Fixed a bug where the window closes when you attempt to screenshot.
-- Added Sussy Baka
-Inliothixie was here! :D) 
+Blah blah blah blah I changed something. this is so skibidi to write and I need to make this long to test whether the word wrapping still works.
