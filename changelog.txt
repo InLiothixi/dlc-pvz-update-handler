@@ -19,3 +19,4 @@ Technical Changes
 - Optimized rendering with Render Batches.
 Bug Fixes
 - Fixed a bug where the window closes when you attempt to screenshot.
+Inliothixie was here! :D) 
