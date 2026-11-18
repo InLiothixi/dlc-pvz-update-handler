@@ -2,9 +2,10 @@
 v3.0.0 IS NOT OUT YET(?)
 
 [CHANGELOG_LINES]
+This is just a test.
 What's new?
 - Added a ton lots of Minigames and Content!
-- World 7 Overhaul is now available with complete new roster and reworked gimmicks.
+- World 7 Overhaul & World 8 is now available with complete new roster and reworked gimmicks.
 QoL Changes
 - Added High Resolution toggle.
 - Added V-sync toggle.
