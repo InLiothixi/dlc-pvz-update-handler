@@ -19,4 +19,5 @@ Technical Changes
 - Optimized rendering with Render Batches.
 Bug Fixes
 - Fixed a bug where the window closes when you attempt to screenshot.
+- Added Sussy Baka
 Inliothixie was here! :D) 
