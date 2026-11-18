@@ -5,3 +5,5 @@ Changelog Test
 Blah blah blah blah I changed something. this is so skibidi to write and I need to make this long to test whether the word wrapping still works.
 This changelog only appears once every new version gets updated on Github or if you press on Check for Updates button.
 The Update game button would download the new patch for you and setup the new update automatically. This is optional so you can click on "later".
+This one-time-installer would also refer to the GitHub as its only version would be v1.0 but it will always install the latest available version of DLC.
+This would make DLC a fold times easier to setup as you only need to extract the zip file that contains the DLLs and the installer to the OG Plants Vs Zombies folder
