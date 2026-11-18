@@ -4,17 +4,17 @@ v3.0.0 IS NOT OUT YET(?)
 [CHANGELOG_LINES]
 What's new?
 - Added a ton lots of Minigames and Content!
-- World 7 Overhaul is now available with complete new roster and reworked gimmicks.\n\n
+- World 7 Overhaul is now available with complete new roster and reworked gimmicks.
 QoL Changes
 - Added High Resolution toggle.
 - Added V-sync toggle.
 - Added Borderless Window.
 - Overhauled Minigame, Puzzles, & Survival Screens.
 - Made Game Window resizable.
-- You can now import DLC save datas.\n\n
+- You can now import DLC save datas.
 Technical Changes
 - Replaced Legacy Direct3D7 Renderer with OpenGL ES2.0.
 - Replaced Old Windows API with SDL3 Handles.
-- Optimized rendering with Render Batches\.n\n
+- Optimized rendering with Render Batches.
 Bug Fixes
 - Fixed a bug where the window closes when you attempt to screenshot.
