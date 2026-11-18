@@ -3,3 +3,5 @@ Changelog Test
 
 [CHANGELOG_LINES]
 Blah blah blah blah I changed something. this is so skibidi to write and I need to make this long to test whether the word wrapping still works.
+This changelog only appears once every new version gets updated on Github or if you press on Check for Updates button.
+The Update game button would download the new patch for you and setup the new update automatically. This is optional so you can click on "later".
