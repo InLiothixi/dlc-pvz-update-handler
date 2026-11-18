@@ -1,5 +1,5 @@
 [CHANGELOG_HEADER]
-v3.0.0 IS OUT!
+v3.0.0 IS OUT(?)
 
 [CHANGELOG_LINES]
 What's new?
